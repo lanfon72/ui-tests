@@ -1,6 +1,8 @@
 # ui-tests
 Harvester UI testing based on RobotFramework.
 
+> ⚠️⚠️⚠️ This has been moved to into [harvester/tests](https://github.com/harvester/tests) ⚠️⚠️⚠️
+
 ## Running Test
 
 ### Prerequisite
